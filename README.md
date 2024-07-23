@@ -79,6 +79,7 @@ Difference coded data surfaced to be the best possible choice
   <li>
     Results & Analysis <br/>
     Presents the findings of your project. Use data, tables, charts, and figures to illustrate your points. Analyze the results statistically if applicable, and explain their significance in relation to the project objectives
+    <img src="https://github.com/milanraj1107/Medium-Mix-Model-Using-Arimax/blob/main/images/results.png"><br/>
     Out of the four iterations, the best model is the first iteration type, i.e, the input data doesn't contains any columns with meta in it. 
 This highlights meta campaigns to be the most insignificant. 
 Iteration 2 suggests out of the digital budgets, more budget should be allocated to allocated to Google channels. 
